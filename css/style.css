@@ -2,7 +2,7 @@ body{background-color:#d7c9e2;}
 .my_list{color:  #cc3057;}
 h1{border: 16px ridge;color: #3a1d38;}
 h1:hover{background-color:#c43570;color: #6c278c;font-family:  'Slabo 27px', serif; }
-.my_table tr, td {padding: 20px;border: 1px solid;}
+
 table.my_table{padding: 20px;border: 1px solid;}
 /*.my_table{padding: 20px;border: 1px solid;}
 .my_table{border-collapse: collapse;}*/
