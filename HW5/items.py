@@ -8,7 +8,7 @@
 import scrapy
 
 
-class SinItem(scrapy.Item):
+class TopqItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     pass
